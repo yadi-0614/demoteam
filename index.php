@@ -12,11 +12,11 @@
     <br>
     <h2> Integrantes</h2>
     <ul>
-        <li><a href="./daniel.docx">Daniel</a></li>
-        <li><a href="./jose luis.docx">Jose luis</a></li>
-        <li><a href="./jimena.docx">Jimena</a></li>
-        <li><a href="./lucero yadira.docx">Lucero Yadira</a></li>
-        <li><a href="./francisco.docx">Francisco</a></li>
+        <li><a href="./daniellopez.docx">Daniel</a></li>
+        <li><a href="./jose luisgordillo.docx">Jose luis</a></li>
+        <li><a href="./jimenamorales.docx">Jimena</a></li>
+        <li><a href="./lucero yadiranavarro.docx">Lucero Yadira</a></li>
+        <li><a href="./franciscooropeza.docx">Francisco</a></li>
     </ul>        
 </h1>
 </body>
